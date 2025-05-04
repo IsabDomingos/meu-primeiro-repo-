@@ -11,4 +11,5 @@ Estou aprendendo passo a passo como usar essa plataforma.
 ## O que vem por aí:
 - Python
 - HTML e CSS
+-C e C#
 - Projetos incríveis!
